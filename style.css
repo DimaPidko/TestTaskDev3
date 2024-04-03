@@ -1,0 +1,13 @@
+#output {
+    border: 1px solid black;
+    width: 500px;
+    height: 500px;
+    padding: 10px;
+    overflow: auto;
+    position: relative;
+}
+
+.selected {
+    color: red;
+    position: absolute;
+}
